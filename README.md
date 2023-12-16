@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya20singh&label=Profile%20views&color=0e75b6&style=flat" alt="ananya20singh" /> </p>
 
-- 🔭 I’m currently studying [computer science](from G.L. Bajaj Institute of Technology and Management)
+- 🔭 I’m currently studying computer science from G.L. Bajaj Institute of Technology and Management
 
 - 📫 How to reach me **ananyasingh0777@gmail.com**
 
-- 📄 Know about my experiences [Subject matter expert at chegg india](Subject matter expert at chegg india)
+- 📄 Know about my experiences :Subject matter expert at chegg india
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
